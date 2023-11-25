@@ -35,7 +35,7 @@ You can log into the [FusionAuth admin UI](http://localhost:9011/admin) and look
 
 ### Running the iOS App
 
-- Open the `Change Bank.xcodeproj` file in this project's `complete-application` folder in [Xcode](https://developer.apple.com/xcode/).
+- Open the `ChangeBank.xcodeproj` file in this project's `complete-application` folder in [Xcode](https://developer.apple.com/xcode/).
 - Open the `ChangeBank.plist` file in the `complete-application` folder in a text editor.
   - Change the issuer and clientId values to match that of your FusionAuth instance. If you used the default Docker and Kickstart, you don't need to change anything.
 
