@@ -3,7 +3,6 @@
 //  ChangeBank
 //
 
-
 import Foundation
 import SwiftUI
 import AppAuth

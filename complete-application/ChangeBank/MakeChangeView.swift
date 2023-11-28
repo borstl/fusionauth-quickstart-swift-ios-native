@@ -2,8 +2,6 @@
 //  MakeChangeView.swift
 //  ChangeBank
 //
-//  Created by Bradley Van Aardt on 2023/11/21.
-//
 
 import SwiftUI
 

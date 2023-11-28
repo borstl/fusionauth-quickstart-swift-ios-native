@@ -2,8 +2,6 @@
 //  Styles.swift
 //  Change Bank
 //
-//  Created by Bradley Van Aardt on 2023/11/22.
-//
 
 import Foundation
 import SwiftUI
