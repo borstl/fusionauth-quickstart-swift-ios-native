@@ -13,6 +13,7 @@ struct ChangeBankApp: App {
         WindowGroup {
             ContentView()
                 .environmentObject(userAuth)
+                .preferredColorScheme(.light)
         }
     }
 }
